@@ -1,12 +1,9 @@
- Hi, I’m @K4DD05.
- I’m interested in becoming a cyber security specialist.
- I’m currently pursuing a course in information technology.
- I am proficient in languages like html and css whilst I am still learning cpp,python and javascript.
- I’m looking to collaborate on beginner friendly and fun yet challenging projects.
- You can reach me on www.linkedin.com/in/shadrach-addo-37b168358.
- Fun fact about me is that I find it hard to give a fun fact about me, always.
-
-<!---
-K4DD05/K4DD05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can call me K4DDO5(Kaddos and nah I didn't get it from the idea of a DDOS attack).
+An aspiring Penetration Tester who doesn't want to make his mark only in Application Security but Network Security too.
+Other filed I aspire to work in include(in order of importance);
+Cellular Network and Sim Security
+Cloud Security
+Reverse Engineering
+I am currently pursuing a Bachelor Degree in Information Technology.
+We can connect on discord with my userame being k4dd05_89383.
+I would also love to partake in fun and exciting projects (yeah even if it is boring, I just want to learn).
