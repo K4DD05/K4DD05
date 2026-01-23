@@ -1,6 +1,6 @@
 You can call me K4DDO5(Kaddos and nah I didn't get it from the idea of a DDOS attack).
 An aspiring Penetration Tester who doesn't want to make his mark only in Application Security but Network Security too.
-Other filed I aspire to work in include(in order of importance);
+Other fields I aspire to work in include(in order of importance);
 Cellular Network and Sim Security
 Cloud Security
 Reverse Engineering
